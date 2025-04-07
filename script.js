@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
       // Crear imagen que cae
       const image = document.createElement("img");
       image.className = "cumple-image";
-      image.src = "/imagenes/benjamin.png"; // Cambia por tu imagen
+      image.src = "/benjamin.png"; // Cambia por tu imagen
       image.alt = "¡Feliz cumpleaños!";
       document.body.appendChild(image);
 
